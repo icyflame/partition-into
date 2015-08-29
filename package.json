@@ -1,0 +1,33 @@
+{
+  "name": "partition-into",
+  "version": "0.0.0",
+  "description": "Partition an array into required sets of n numbers, and the remaining values",
+  "license": "MIT",
+  "repository": "icyflame/partition-into",
+  "author": {
+    "name": "Siddharth Kannan",
+    "email": "kannan.siddharth12@gmail.com",
+    "url": "icyflame.github.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "arrays",
+    "partition",
+    "frontend",
+    "rendering",
+    "html"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "semistandard": "6.1.1"
+  }
+}
