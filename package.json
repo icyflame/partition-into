@@ -1,6 +1,6 @@
 {
   "name": "partition-into",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Partition an array into required sets of n numbers, and the remaining values",
   "license": "MIT",
   "repository": "icyflame/partition-into",
